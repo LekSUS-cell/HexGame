@@ -1,0 +1,2 @@
+# HexGame
+Hexcells game project
